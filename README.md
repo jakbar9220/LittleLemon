@@ -3,7 +3,7 @@
 ### Capstone Project for Certification: Meta Back-End Developer Professional Certificate
 
 
-**Endpoints:**
+**Main Endpoints:**
 
 
 restaurant/menu/
