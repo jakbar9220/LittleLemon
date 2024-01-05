@@ -23,7 +23,7 @@
 3). Declaring serializer classes for menu and booking models in serializers.py\
 4). Declaring view classes for menu and booking models in views.py\
 5). Using DefaultRouter to register views\
-6). Performing CRUD operationon menu and booking models using DRF’s browsable API
+6). Performing CRUD operation on menu and booking models using DRF’s browsable API
 
 ### Task 4: Installing Djoser and testing with Insomnia
 1). Installation of djoser library in virtual environment\
