@@ -1,6 +1,6 @@
 ## Capstone Project for Meta Back-End Developer Professional Certificate
 
-### Task 1: Setting up environment:
+### Task 1: Setting up django environment:
 1). Creation of repositry on github\
 2). Creation of python virtual environment on local machine workspace\
 3). Installation of django framework in  virtual environment\
@@ -9,7 +9,7 @@
 6). Cloning of github repositry on local machine\
 7). Adding and commiting project files and pushing changes to remote repositry
 
-### Task 2: Setting up MySQL database and users:
+### Task 2: Setting up MySQL database and django users:
 1). Installation of mysqlclient library in virtual environment\
 2). Configuration for MySQL database in settings.py\
 3). Declaring models menu and booking in models.py\
